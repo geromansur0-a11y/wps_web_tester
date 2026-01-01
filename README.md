@@ -19,3 +19,7 @@ Reaver, Wash, dan PixieWPS melalui antarmuka browser yang interaktif.
    ```bash
    git clone [https://github.com/username/WPS-Web-Tester.git](https://github.com/username/WPS-Web-Tester.git)
    cd WPS-Web-Tester
+   ## Cara Cepat Instalasi
+Cukup jalankan satu perintah ini di terminal:
+```bash
+chmod +x install.sh && ./install.sh
